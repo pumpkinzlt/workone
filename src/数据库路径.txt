@@ -1,0 +1,18 @@
+登录：
+http://localhost/work/login.html
+
+注册：
+http://localhost/work/zhuce.html
+
+注册好的：
+用户名：zhangsan     密码：111
+用户名：lisi     密码：222
+用户名：aa     密码：111
+
+
+特效：
+轮播图（引了swiper包）
+倒计时（用jquery做的）
+
+ajax 假数据加载：关键字搜索
+

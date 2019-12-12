@@ -1,0 +1,148 @@
+#login-header{
+    height: 40px;
+    min-width: 1200px;
+}
+.login-header-inner{
+    height: 40px;
+    width: 1200px;
+    border-bottom: 1px solid #7a7f89;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.warper{
+    min-width: 1200px;
+    height: 473px;
+}
+.warper-inner{
+    width: 1200px;
+    height: 473px;
+    border-bottom: 1px solid #999;
+    margin: 50px auto 10px;
+}
+.vancellogin{
+    width: 1200px;
+    height: 25px;
+}
+.vancellogin h3{
+    font-size: 22px;
+    color: #979797;
+    font-weight: bolder;
+    text-align: left;
+    height: 25px;
+    line-height: 25px;
+    float: right;
+    margin: 0 100px 0 0;
+    width: 400px;
+    position: relative;
+}
+.vancellogin h3 span{
+    font-size: 14px;
+    font-weight: normal;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.vancellogin h3 span a{
+    color: #b42025;
+}
+.login{
+    width: 400px;
+    height: 280px;
+    border: 1px solid #d1d1d1;
+    float: right;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+	border-radius: 5px;
+    line-height: 50px;
+    padding-top: 30px;
+}
+
+.login form span{
+    margin:0 10px;
+}
+.login form input{
+    border-radius: 3px;
+    width:200px;
+    line-height: 25px;
+    padding-left:3px;
+    margin: 20px auto;
+}
+.login input[type="button"]{
+    border:none;
+    background: #b42025;
+    width: 250px;
+    height:25px;
+    color:white;
+    text-align: center;
+    line-height: 25px;
+    margin-left:10px;
+}
+
+
+
+/* 注册 */
+
+.zhucebox{
+    width: 400px;
+    height: 280px;
+    border: 1px solid #d1d1d1;
+    float: right;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+	border-radius: 5px;
+    line-height: 50px;
+    padding-top: 30px;
+}
+
+.zhucebox form span{
+    margin:0 10px;
+}
+.zhucebox form input{
+    border-radius: 3px;
+    width:200px;
+    line-height: 25px;
+    padding-left:3px;
+    margin: 20px auto;
+}
+.zhucebox input[type="button"]{
+    border:none;
+    background: #b42025;
+    width: 250px;
+    height:25px;
+    color:white;
+    text-align: center;
+    line-height: 25px;
+    margin-left:10px;
+}
+/* .zhuce{
+    width: 400px;
+    height: 280px;
+    border: 1px solid #d1d1d1;
+    float: right;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+	border-radius: 5px;
+    line-height: 50px;
+    padding-top: 30px;
+} */
+.zhucebox input[type="submit"]{
+    border:none;
+    background: #b42025;
+    width: 250px;
+    height:25px;
+    color:white;
+    text-align: center;
+    line-height: 25px;
+    margin-left:10px;
+}

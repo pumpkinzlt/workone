@@ -1,0 +1,28 @@
+.mycar{
+    width: 170px;
+    height: 40px;
+    line-height: 40px;
+    background: #b42025;
+    color: white;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 24px;
+    margin-right: 1135px;
+    border-radius: 5px;
+}
+.addCart,.del {
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: #b42025;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+img{
+    width: 132px;
+    height: 132px;
+}
